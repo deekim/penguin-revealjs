@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Intro to Reveal.js",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "deekim",
+    "githubRepository": "penguin-revealjs"
+  }
+}
