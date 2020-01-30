@@ -1,3 +1,4 @@
-##  intro
+##  Reveal.js
 
-This is a new Markdown slide
+...is a framework for creating presentations using HTML **(or markdown)**
+
