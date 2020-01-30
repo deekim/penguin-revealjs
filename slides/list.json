@@ -1,4 +1,27 @@
 [
     "index.md",
-    "intro.md"
+    [
+        "intro.md",
+        "configurablity.md",
+        "static-html.md",
+        "setup.md"
+    ],
+    [
+        "create.md",
+        "slide.md",
+        "hide.md",
+        "esc.md"
+    ],
+    [
+        "distribute.md"
+    ],
+    [
+        "repeat.md",
+        "branches.md"
+    ],
+    [
+        "resources.md",
+        "plugins.md"
+    ],
+    "q-and-a.md"
 ]
